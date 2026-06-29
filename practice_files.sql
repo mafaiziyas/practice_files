@@ -1,11 +1,3 @@
--- ==============================================================================
--- ENTERPRISE DATA WAREHOUSE & ANALYTICS DATA PIPELINE SCRIPTS
--- ==============================================================================
--- Author: mafaiziyas
--- Description: Core schema design, data manipulation, indexing optimizations,
--- and complex analytical reporting queries simulating a production scale
--- e-commerce data platform backend.
--- ==============================================================================
 
 -- SECTION 1: DATABASE SCHEMA SETUP & CONFIGURATION
 CREATE TABLE IF NOT EXISTS customer_profiles (
